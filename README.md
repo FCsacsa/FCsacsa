@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kas.
-- 👀 I’m interested in all kinds of technology.
+- 👀 I’m interested in all kinds of technology. (How original, I know)
 - 🌱 I’m currently learning Computer Science and Engineering at [TU Delft](https://tudelft.nl)
 - 📫 How to reach me:
   - [Personal Email](mailto:farkas.csacsa@gmail.com)

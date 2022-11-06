@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kas
+- 👋 Hi, I’m Kas.
 - 👀 I’m interested in all kinds of technology.
 - 🌱 I’m currently learning Computer Science and Engineering at [TU Delft](https://tudelft.nl)
 - 📫 How to reach me:

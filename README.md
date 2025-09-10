@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Cas.
 - 👀 I’m interested in all kinds of technology. (How original, I know)
-- 🌱 I’m currently learning Computer Science and Engineering at [TU Delft](https://tudelft.nl)
 - 📫 How to reach me:
-  - [Personal Email](mailto:farkas.csacsa@gmail.com)
+  - [Personal Email](mailto:cas.farkas@proton.me)
   - [Mastodon Account](https://social.linux.pizza/@farkas0x0d)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
